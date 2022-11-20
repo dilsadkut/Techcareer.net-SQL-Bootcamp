@@ -97,12 +97,11 @@ FROM Customers
 WHERE Country IN ('Brazil','Germany','Italy')
 
 -- Birden fazla kelimeden oluşan ismi olan ürünleri listeleyin.
-
 SELECT *
 FROM Products
 WHERE ProductName LIKE '% %'
 
--- Şişede sattığım ürünleri listeleyin
+-- Şişede sattığım ürünleri listeleyin.
 SELECT *
 FROM Products
 WHERE QuantityPerUnit LIKE '%bottles%'
@@ -111,6 +110,7 @@ WHERE QuantityPerUnit LIKE '%bottles%'
 SELECT *
 FROM Employees
 WHERE Notes lIKE '%German%'
+
 -- Birebir firma sahibi ile iletişime geçtiğimiz tedarikçileri listeleyin.
 SELECT *
 FROM Suppliers
