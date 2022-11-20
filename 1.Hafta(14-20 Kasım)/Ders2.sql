@@ -1,5 +1,4 @@
-
-
+-- Northwind database used
 SELECT *
 FROM Products
 WHERE ProductName LIKE 'Chai'
