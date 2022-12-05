@@ -18,8 +18,8 @@ UrunAdi | UrunFiyati | KDVliFiyat | KDV */
 
 SELECT ProductName AS UrunAdi, 
        UnitPrice AS UrunFiyati,
-	   UnitPrice+UnitPrice*18/100 AS KDVliFiyat,
-	   (UnitPrice*18/100)/UnitPrice AS KDV   
+       UnitPrice+UnitPrice*18/100 AS KDVliFiyat,
+       (UnitPrice*18/100)/UnitPrice AS KDV   
 FROM Products
 
 /* Yaşadığı şehir London ve Seattle olmayan çalışanlarımız kimlerdir?
@@ -89,6 +89,6 @@ ORDER BY ShippedDate DESC
 
 -- En genç 3 çalışanı listeleyin.
 
-SELECT TOP 3*
+SELECT TOP 3 *
 FROM Employees
 ORDER BY BirthDate DESC
