@@ -13,4 +13,4 @@ Implementations of One-to-Many - Many-to-Many and One-to-One relationships on MS
 ## Third Week
 ### What I learned in the third week of training?
 
-DML commands (create, update, delete), T-SQL Programming Basic, Relational data query - Join concept, Example join applications in SQL, Answering homework questions, Joinle sample apps, Group By and sample applications, Having clause, Subquery concept and applications, Union and Union All concepts and applications, SQL View object, DDL commands (View creation, View update and View deletion)
+DML commands (create, update, delete), T-SQL Programming Basic, Relational data query - Join concept, Example join applications in SQL, Answering homework questions, Join sample apps, SQL Group By and sample applications,  SQL Having clause, Subquery concept and applications, Union and Union All concepts and applications, SQL View object, DDL commands (View creation, View update and View deletion)
