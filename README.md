@@ -19,3 +19,8 @@ DML commands (create, update, delete), T-SQL Programming Basic, Relational data 
 ### What I learned in the fourth week of training?
 
 View applications, What is Stored Procedure? Why do we use Stored Procedure? AD-HOC Query, Stored Procedure applications, Week 3 Homework Question Solutions, What are Functions, Basic Structure of Functions, Cursor structure-functions and usage, Some query techniques, Sorting functions, Trigger structure-use and sample applications
+
+## 12.12.2022 Lecture
+### What did I learn on the last day of training?
+
+Index Concept, Transactions
