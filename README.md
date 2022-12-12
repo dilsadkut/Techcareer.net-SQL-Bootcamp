@@ -14,3 +14,8 @@ Implementations of One-to-Many - Many-to-Many and One-to-One relationships on MS
 ### What I learned in the third week of training?
 
 DML commands (create, update, delete), T-SQL Programming Basic, Relational data query - Join concept, Example join applications in SQL, Answering homework questions, Join sample apps, SQL Group By and sample applications,  SQL Having clause, Subquery concept and applications, Union and Union All concepts and applications, SQL View object, DDL commands (View creation, View update and View deletion)
+
+## Fourth Week
+### What I learned in the fourth week of training?
+
+View applications, What is Stored Procedure? Why do we use Stored Procedure? AD-HOC Query, Stored Procedure applications, Week 3 Homework Question Solutions, What are Functions, Basic Structure of Functions, Cursor structure-functions and usage, Some query techniques, Sorting functions, Trigger structure-use and sample applications
